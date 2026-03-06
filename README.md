@@ -14,8 +14,7 @@ Uma chave de API da OpenAI
 
 # Crie e ative um ambiente virtual
 python -m venv .venv
-.venv\Scripts\activate   # Windows
-# source .venv/bin/activate  # Linux/Mac
+.venv\Scripts\activate
 
 # Instale as dependências
 pip install streamlit openai python-dotenv
