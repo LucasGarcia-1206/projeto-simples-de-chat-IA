@@ -11,10 +11,6 @@ Botão para limpar conversa
 Pré-requisitos
 Python 3.10+
 Uma chave de API da OpenAI
-Instalação
-# Clone o repositório
-git clone https://github.com/seu-usuario/chatAI.git
-cd chatAI
 
 # Crie e ative um ambiente virtual
 python -m venv .venv
